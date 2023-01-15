@@ -164,6 +164,8 @@ header{
 
 }
 
+
+
 .gallery_button1:hover{
     background-color: #E91E63;
     color: #ffffff;
@@ -172,13 +174,13 @@ header{
 
 .gallery_button1:active .gallery2{
     display: block;
-} 
+}
 
 /* ----------------Footer------------- */
 
 
 .contact_area{
-    background-image: url(../img/foot.jpg);
+    background-image: url(../img/foot2.jpg);
     background-size: cover;
     background-attachment: fixed;
     text-align: center;
@@ -207,7 +209,7 @@ header{
 }
 
 .contacts_text{
-    color: white;
+    color: rgb(0, 0, 0);
     margin-top: 20px;
     font-weight: 400;
 }
