@@ -208,6 +208,24 @@
 }
 
 
+@media only screen and (min-width: 700px){
+    
+.head_herbal{
+
+    margin-top: 70px;
+}
+
+
+.natural{
+
+    margin-top: 30px;
+}
+
+.head_button{
+    margin-top: 25px;
+}
+}
+
 @media only screen and (max-width: 700px){
 
 
