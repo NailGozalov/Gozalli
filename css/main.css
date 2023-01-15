@@ -296,7 +296,7 @@ header{
     text-align: center;
 }
 
-.button_see_more>button{
+.button_see_more>a>button{
     font-size: 20px;
     padding: 14px 35px;
     border: 1.5px solid #E91E63;
@@ -307,7 +307,7 @@ header{
     border-radius: 25px;
 }
 
-.button_see_more>button:hover{
+.button_see_more>a>button:hover{
     background-color: #E91E63;
     color: #ffffff;
     border-color: #E91E63;
